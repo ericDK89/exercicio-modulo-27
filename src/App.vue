@@ -6,7 +6,6 @@ const state = reactive({
   b: 0,
   function: "sum",
   result: 0,
-  isValid: false,
 });
 
 const calc = () => {
